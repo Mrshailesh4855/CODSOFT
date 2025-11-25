@@ -1,4 +1,4 @@
-tasks = []
+tasks=[]
 
 def show_tasks():
     if not tasks:
