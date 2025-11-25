@@ -8,13 +8,13 @@ This project is a basic command-line calculator built using Python. It allows th
 
 ~ Supports four basic operations:
 
-1.Addition (+)
+1.Addition(+)
 
-2.Subtraction (-)
+2.Subtraction(-)
 
-3.Multiplication (*)
+3.Multiplication(*)
 
-4.Division (/)
+4.Division(/)
 
 ~ Displays the final result
 
