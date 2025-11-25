@@ -5,19 +5,30 @@ This project is a basic command-line calculator built using Python. It allows th
 
 ## Features ##
 ~ Accepts two user inputs (numbers)
+
 ~ Supports four basic operations:
+
 1.Addition (+)
+
 2.Subtraction (-)
+
 3.Multiplication (*)
+
 4.Division (/)
+
 ~ Displays the final result
+
 ~ Handles invalid number input
+
 ~ Prevents division by zero
 
 ## How It Works ##
 1.The program asks the user to enter two numbers.
+
 2.The user chooses an operation symbol (+, -, *, /).
+
 3.The program performs the calculation based on the chosen operation.
+
 4.The result is printed on the screen.
 
 ## Requirements ##
@@ -25,8 +36,11 @@ This project is a basic command-line calculator built using Python. It allows th
 
 ## How to Run ##
 1.Open the 'Task2' folder
+
 2.Open a terminal or command prompt
+
 3.Run the command: python task2.py
+
 4.Follow the prompts on the screen.
 
 ## Notes ##
