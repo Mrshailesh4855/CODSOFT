@@ -30,7 +30,7 @@ while True:
     print("Program Exited....")
     break
   else:
-    print("Invalid Choice")
+    print("Invalid Choice !!")
     continue
 
   password=''.join(random.choice(char)for _ in range(length))
