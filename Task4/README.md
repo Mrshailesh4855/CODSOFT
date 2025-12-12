@@ -42,7 +42,7 @@ Scores update after every round, and the user can choose to continue or exit the
 
 2.Open a terminal or command prompt
 
-3.Run the command:python rps.py
+3.Run the command:python task4.py
 
 
 4.Choose Rock, Paper, or Scissors when prompted
