@@ -44,7 +44,7 @@ Users interact with the application through a numeric menu to manage contact det
 
 2.Open a terminal or command prompt
 
-3.Run the command: python contacts.py
+3.Run the command: python task5.py
 
 4. Use the menu options (1–6) to manage your contacts.
 
