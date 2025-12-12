@@ -25,8 +25,11 @@ The program stores contacts in a list while it is running.
 Each contact contains:
 
 ~ Name
+
 ~ Phone Number
+
 ~ Email
+
 ~ Address
 
 Users interact with the application through a numeric menu to manage contact details.
